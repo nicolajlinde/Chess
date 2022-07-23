@@ -1,6 +1,6 @@
 
 # Chess
-A Blender 3D Project which was rather ambitious but it worked and turned out well.
+A Blender 3D Project which was rather ambitious but turned out well none the less.
 
 ![Chess](1.jpeg "Chess")
 
